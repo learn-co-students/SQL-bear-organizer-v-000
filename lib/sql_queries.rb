@@ -31,3 +31,4 @@ def selects_bear_that_killed_Tim
  #or
   "SELECT * FROM bears WHERE (name  IS NULL) AND (temperament == 'aggressive');"
 end
+# some issues with the pull request- it would not register as a FINISHED lesson, although would accept it on git hub... 
