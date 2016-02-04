@@ -7,5 +7,5 @@ color TEXT,
 temperament TEXT,
 alive BOOLEAN
 
-
+#
 );
